@@ -9,3 +9,5 @@ Pro implementaci se budou hodit metody na rozhraní [List](https://docs.oracle.c
 [Collections.shuffle()](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Collections.html#shuffle(java.util.List)).
 
 Hotový úkol commitněte a pushněte na GitHub.
+
+
